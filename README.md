@@ -18,7 +18,7 @@ ____
 # Project Deliverables and Final Analysis Critera.
 
 ```
-● 
+● Deliverables that directly contribute to the final product - in this case, a proposal for the best way to predict weather patterns and a proposal of a final algorithm to achieve ClimeWins' goal. 
 ```
 
 ___
